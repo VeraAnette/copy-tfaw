@@ -1,0 +1,187 @@
+body {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: #9a0b25;
+background-color: #760613;
+margin: 0;
+}   
+main {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-style: oblique;
+font-size: 60px;
+color: #a6369f;
+background-color: #dd8117;
+text-align: center;
+border: solid pink;
+border-radius: 60px;
+}
+.logo {
+width: 10px;
+margin-left: 30px;
+margin-top: 0%;
+}
+nav {
+padding: 10px; 
+font-weight: bold;
+font-size: 10px;
+display: inline;
+text-align: center;
+word-spacing: 20px;
+}
+nav li {
+display: inline;
+}
+nav li a {
+text-decoration: none;
+color: #ff9f38;;
+font-size: 20px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+display: inline;
+margin: 10px;
+}
+.iron-man-long {
+z-index: -1;
+width: 100%;
+height: 200px;
+object-fit: cover;
+}
+.comic-2-small {
+border-radius: 20px;
+}
+input {
+width: 99%;
+font-size: x-large;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-weight: bolder;
+outline-style: none;
+text-align: center;
+background-color: #9c2b40;
+color: #ffffff;
+border-radius: 20px;
+height: 40px;
+}
+nav li a:hover {
+color: #e08abf;
+}
+button {
+width: 200px;
+border-width: 10px;
+border-color: #9554d1;
+height: 100px;
+margin-left: 50px;
+text-align: center;
+background-color: #c66423;
+color: #871541;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: x-large;
+border-radius: 20px;
+}
+button:hover {
+color: rgb(255, 225, 0);
+}
+header a {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 80px;
+font-weight: bold;
+text-align: center;
+text-decoration: none;
+}
+.big {
+color: #6d1284;
+background-color: #360417;
+text-align: center;
+border-radius: 60px;
+border: 10px solid rgb(216, 80, 65);
+border-color: #c45485;
+}
+.big:link {
+color: rgb(159, 75, 82);
+}
+.big:visited {
+color: rgb(218, 112, 19);
+}
+.big:hover {
+color: rgb(213, 105, 159);
+}
+.big:active {
+color: rgb(60, 8, 41);
+}
+.pugg {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 60px;
+color: #f28140;
+background-color: rgb(154, 105, 202);
+border-radius: 90px;
+border: 10px solid rgb(189, 69, 21);
+margin-left: 250px;
+margin-right: 250px;
+text-align: center;
+}
+div.gallery {
+margin-top: 100px;
+margin-bottom: 100px;
+border: 20px solid #bb2e66;
+border-style: hidden;
+float: inline-start;
+margin-inline: 50px;
+}
+.Grognak_the_Barbarian_collage {
+width: 200px;
+border-radius: 20px;
+}
+.marvel-comics-characters {
+width: 200px;
+border-radius: 20px;
+}
+.dc-comics {
+width: 200px;
+border-radius: 20px;
+}
+.supergirl-wonderwoman-fight {
+width: 200px;
+border-radius: 20px;
+}
+div.gallery:hover {
+border: 5px solid #c66423;
+}
+div > .gallery > img {
+width: auto;
+margin-bottom: 5px;
+}
+div.desc {
+padding: 15px;
+text-align: center;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: large;
+color: #ec7f0b;;
+}
+h2 {
+color: #ec7f0b;
+background-color: #9554d1;
+border: 20px solid #51299c;
+border-radius: 90px;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+margin-top: 500px;
+margin-bottom: 50px;
+margin-left: 200px;
+margin-right: 200px;
+padding: 20px 20px 20px 20px;
+} 
+h3 {
+color: #ec7f0b;
+background-color: #9554d1;
+border: 20px solid #51299c;
+border-radius: 90px;
+padding: auto;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+text-align: center;
+margin-left: 250px;
+margin-right: 250px;
+margin-bottom: 50px;
+margin-top: 100px;
+padding: 20px 20px 20px 20px;
+}
+footer {
+padding-top: 50px;
+text-align: center;
+}
